@@ -1,4 +1,4 @@
-# 🏦 FS Banking Platform — Snowflake Data Engineering Project
+# 🏦 FS Banking Customer 360  Platform — Snowflake Data Engineering Project
 
 ## 📌 Project Overview
 
