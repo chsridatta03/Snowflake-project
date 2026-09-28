@@ -55,3 +55,5 @@ VIEWS & UDFs
 CORTEX ANALYST
     →
 STREAMLIT DASHBOARD
+
+**📄 Project Documentation:** The complete project documentation is available in the PDF included in this repository. Please refer to the PDF for detailed project architecture, implementation steps, SQL scripts, and project workflow.
